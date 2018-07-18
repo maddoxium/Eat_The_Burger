@@ -1,0 +1,39 @@
+h1 {
+	font-family: 'Knewave', cursive;
+	color: white;
+}
+
+#sign {
+	margin-top:30px;
+	background-color: #B00000;	
+	color: white;
+	font-size: 3em;
+	font-family: 'Knewave', cursive;
+	text-align: center;
+}
+
+img {
+    width: 70%;
+    height: auto;
+}
+
+#addBurger {
+	text-align: center;
+	background-color: yellow;
+	padding-top:20px;
+	padding-bottom:20px;
+}
+
+#submit {
+	margin-top:10px;
+	float:right;
+}
+
+.uneaten {
+	margin-top:30px;	
+}
+
+#devour {
+	background-color: yellow;
+	color: black;
+}
